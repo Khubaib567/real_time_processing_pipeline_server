@@ -1,1 +1,1 @@
-# node-kafka-docker
+# apache-kafka-adapter
